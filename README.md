@@ -1,4 +1,6 @@
-## Enter Target Mode programatically
+=======
+iMacMonitor - Enter Target Mode programatically
+=========== 
 
 * License: MIT license (bogner.sh)
 * Original site: http://bogner.sh/2013/07/os-x-how-to-use-an-imac-as-monitor/#comment-50925
@@ -64,3 +66,4 @@ As I have written this application for fun you can also download the
 It’s released under the MIT licence.  
 
 Update: [Here’s the Xcode 5 Project for 10.9](http://bogner.sh/wp-content/uploads/2013/07/iMacMonitor_Source109.zip)
+
