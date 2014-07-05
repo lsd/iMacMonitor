@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'iMacMonitor' target in the 'iMacMonitor' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif

@@ -1,0 +1,233 @@
+// !$*UTF8*$!
+{
+	089C165DFE840E0CC02AAC07 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1082, 601}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 45}";
+			sepNavWindowFrame = "{{38, 45}, {1562, 957}}";
+		};
+	};
+	256AC3D80F4B6AC300CF3369 /* iMacMonitorAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1082, 601}}";
+			sepNavSelRange = "{402, 0}";
+			sepNavVisRange = "{0, 639}";
+			sepNavWindowFrame = "{{61, 24}, {1562, 957}}";
+		};
+	};
+	256AC3D90F4B6AC300CF3369 /* iMacMonitorAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1082, 1365}}";
+			sepNavSelRange = "{476, 0}";
+			sepNavVisRange = "{0, 969}";
+			sepNavWindowFrame = "{{445, -237}, {1562, 957}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = 82086255171D6E8900CC00D5 /* iMacMonitor */;
+		activeTarget = 8D1107260486CEB800E47090 /* iMacMonitor */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* iMacMonitor */,
+		);
+		codeSenseManager = 82086267171D6E9400CC00D5 /* Code sense */;
+		executables = (
+			82086255171D6E8900CC00D5 /* iMacMonitor */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					904,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 395953042;
+			PBXWorkspaceStateSaveDate = 395953042;
+		};
+		perUserProjectItems = {
+			82086581171DAC2900CC00D5 /* PBXBookmark */ = 82086581171DAC2900CC00D5 /* PBXBookmark */;
+			828C1FE11799C3E200B9C4C3 /* PBXTextBookmark */ = 828C1FE11799C3E200B9C4C3 /* PBXTextBookmark */;
+			828C1FE31799C3E200B9C4C3 /* PBXTextBookmark */ = 828C1FE31799C3E200B9C4C3 /* PBXTextBookmark */;
+			828C1FFB1799C64500B9C4C3 /* PBXBookmark */ = 828C1FFB1799C64500B9C4C3 /* PBXBookmark */;
+			828C1FFC1799C64500B9C4C3 /* PBXTextBookmark */ = 828C1FFC1799C64500B9C4C3 /* PBXTextBookmark */;
+			828C1FFD1799C64500B9C4C3 /* PlistBookmark */ = 828C1FFD1799C64500B9C4C3 /* PlistBookmark */;
+			828C20051799CAEF00B9C4C3 /* PBXTextBookmark */ = 828C20051799CAEF00B9C4C3 /* PBXTextBookmark */;
+			828C20061799CAEF00B9C4C3 /* PBXTextBookmark */ = 828C20061799CAEF00B9C4C3 /* PBXTextBookmark */;
+			828C20081799CAEF00B9C4C3 /* PBXTextBookmark */ = 828C20081799CAEF00B9C4C3 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 82086266171D6E9400CC00D5 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	82086255171D6E8900CC00D5 /* iMacMonitor */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = iMacMonitor;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	82086266171D6E9400CC00D5 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	82086267171D6E9400CC00D5 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	82086289171D6FA900CC00D5 /* FullScreenWindow.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1082, 601}}";
+			sepNavSelRange = "{214, 0}";
+			sepNavVisRange = "{0, 245}";
+		};
+	};
+	8208628A171D6FA900CC00D5 /* FullScreenWindow.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1559, 871}}";
+			sepNavSelRange = "{686, 0}";
+			sepNavVisRange = "{26, 1341}";
+			sepNavWindowFrame = "{{233, -397}, {1562, 957}}";
+		};
+	};
+	82086292171D704600CC00D5 /* Apple_gray_logo.png */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 66}, {1562, 957}}";
+		};
+	};
+	82086581171DAC2900CC00D5 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 82086292171D704600CC00D5 /* Apple_gray_logo.png */;
+	};
+	828C1FE11799C3E200B9C4C3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 82086289171D6FA900CC00D5 /* FullScreenWindow.h */;
+		name = "FullScreenWindow.h: 12";
+		rLen = 0;
+		rLoc = 214;
+		rType = 0;
+		vrLen = 245;
+		vrLoc = 0;
+	};
+	828C1FE31799C3E200B9C4C3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* iMacMonitorAppDelegate.h */;
+		name = "iMacMonitorAppDelegate.h: 17";
+		rLen = 0;
+		rLoc = 402;
+		rType = 0;
+		vrLen = 639;
+		vrLoc = 0;
+	};
+	828C1FF41799C62000B9C4C3 /* icon.icns */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 66}, {1562, 957}}";
+		};
+	};
+	828C1FFB1799C64500B9C4C3 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 828C1FF41799C62000B9C4C3 /* icon.icns */;
+	};
+	828C1FFC1799C64500B9C4C3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 089C165DFE840E0CC02AAC07 /* English */;
+		name = "InfoPlist.strings: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 45;
+		vrLoc = 0;
+	};
+	828C1FFD1799C64500B9C4C3 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* iMacMonitor-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Volumes/Data/Applications/iMacMonitor/iMacMonitor-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	828C20051799CAEF00B9C4C3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8208628A171D6FA900CC00D5 /* FullScreenWindow.m */;
+		name = "FullScreenWindow.m: 26";
+		rLen = 0;
+		rLoc = 686;
+		rType = 0;
+		vrLen = 1341;
+		vrLoc = 26;
+	};
+	828C20061799CAEF00B9C4C3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* iMacMonitorAppDelegate.m */;
+		name = "iMacMonitorAppDelegate.m: 34";
+		rLen = 0;
+		rLoc = 760;
+		rType = 0;
+		vrLen = 1034;
+		vrLoc = 0;
+	};
+	828C20081799CAEF00B9C4C3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* iMacMonitorAppDelegate.m */;
+		name = "iMacMonitorAppDelegate.m: 22";
+		rLen = 0;
+		rLoc = 476;
+		rType = 0;
+		vrLen = 969;
+		vrLoc = 0;
+	};
+	8D1107260486CEB800E47090 /* iMacMonitor */ = {
+		activeExec = 0;
+		executables = (
+			82086255171D6E8900CC00D5 /* iMacMonitor */,
+		);
+	};
+}
